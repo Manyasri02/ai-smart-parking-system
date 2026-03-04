@@ -1,1 +1,0 @@
-# ai-smart-parking-system
